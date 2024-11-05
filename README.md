@@ -33,6 +33,7 @@ Crear un programa en Javascript que realice lo siguiente:
 - Recuerda que para mostrar mensajes en el **DOM o en la consola**, debes crear un archivo HTML que enlace el script.
 - Para organizar tu desarrollo, considera crear un **algoritmo** y un **pseudocódigo** antes de implementar el código.
 
+---
 
 # Matias Henriquez Torres
 ## Generation Chile 
